@@ -1,0 +1,6 @@
+@PACKAGE_INIT@
+
+set( MathTool_INCLUDE_DIRS @PACKAGE_INCLUDE_DIRS@)
+set( MathTool_LIBRARIES MathTool)
+set( MathTool_LIBRARY_DIRS @PACKAGE_LIB_DIR@)
+
